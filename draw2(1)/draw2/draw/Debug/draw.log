@@ -1,8 +1,0 @@
-﻿  draw2.cpp
-C:\Users\karol\Desktop\draw2(1)\draw2\draw\draw2.cpp(71,30): warning C4552: „+”: Wynik wyrażenia nie jest używany
-C:\Users\karol\Desktop\draw2(1)\draw2\draw\draw2.cpp(73,27): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\karol\Desktop\draw2(1)\draw2\draw\draw2.cpp(92,30): warning C4552: „+”: Wynik wyrażenia nie jest używany
-C:\Users\karol\Desktop\draw2(1)\draw2\draw\draw2.cpp(94,27): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\karol\Desktop\draw2(1)\draw2\draw\draw2.cpp(111,30): warning C4552: „+”: Wynik wyrażenia nie jest używany
-C:\Users\karol\Desktop\draw2(1)\draw2\draw\draw2.cpp(113,27): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-  draw.vcxproj -> C:\Users\karol\Desktop\draw2(1)\draw2\Debug\draw2.exe
