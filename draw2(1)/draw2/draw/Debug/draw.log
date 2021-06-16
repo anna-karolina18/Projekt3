@@ -1,0 +1,5 @@
+﻿  draw2.cpp
+C:\Users\karol\Desktop\draw2(1)\draw2\draw\draw2.cpp(75,27): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\draw2(1)\draw2\draw\draw2.cpp(97,27): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\draw2(1)\draw2\draw\draw2.cpp(118,27): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  draw.vcxproj -> C:\Users\karol\Desktop\draw2(1)\draw2\Debug\draw2.exe
